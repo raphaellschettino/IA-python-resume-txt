@@ -1,6 +1,6 @@
 pip install -r requirements.txt
 python.exe -m pip install --upgrade pip
-api key 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
+
 PAra rodar: uvicorn main:app --reload ou python -m uvicorn main:app --reload
 
 A API estará em:
@@ -12,4 +12,5 @@ E o endpoint:
 POST /resumir
 
 PAg de teste
+
 http://127.0.0.1:8000/docs
