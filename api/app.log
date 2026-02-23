@@ -1,0 +1,12 @@
+[2026-02-22 22:14:14,766] [INFO] Recebido TXT: exemplo.txt
+[2026-02-22 22:14:14,766] [INFO] Conteúdo TXT lido (primeiros 300 chars): Como fazer um texto dissertativo-argumentativo?
+A redação dissertativa-argumentativa tem como objetivo defender um ponto de vista sobre um determinado tema, utilizando argumentação fundamentada, coesão e coerência textual. 
+
+Esse tipo de texto é amplamente cobrado em vestibulares e no ENEM, segui
+[2026-02-22 22:14:14,784] [INFO] [AGENTE] Recebido texto (300 chars): Como fazer um texto dissertativo-argumentativo?
+A redação dissertativa-argumentativa tem como objetivo defender um ponto de vista sobre um determinado tema, utilizando argumentação fundamentada, coesão e coerência textual. 
+
+Esse tipo de texto é amplamente cobrado em vestibulares e no ENEM, segui
+[2026-02-22 22:14:17,610] [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-02-22 22:14:17,636] [INFO] [AGENTE] Resultado gerado (300 chars): Para fazer um texto dissertativo-argumentativo, é preciso defender um ponto de vista sobre um tema, usando argumentos fundamentados, com coesão e coerência. A estrutura é composta por: introdução (apresenta o tema e a tese), desenvolvimento (dois ou mais parágrafos com argumentos que sustentam a tes
+[2026-02-22 22:14:17,637] [INFO] Resumo gerado (primeiros 300 chars): Para fazer um texto dissertativo-argumentativo, é preciso defender um ponto de vista sobre um tema, usando argumentos fundamentados, com coesão e coerência. A estrutura é composta por: introdução (apresenta o tema e a tese), desenvolvimento (dois ou mais parágrafos com argumentos que sustentam a tes
